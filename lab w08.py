@@ -1,3 +1,8 @@
+"""
+Họ và tên: Hà Văn Mạnh
+MSSV: 202418941
+
+"""
 from datetime import datetime
 from enum import Enum
 from typing import List, Callable, Iterable
